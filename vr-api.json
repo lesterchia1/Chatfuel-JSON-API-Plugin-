@@ -9,19 +9,19 @@
           "buttons": [
             {
               "type": "web_url",
-              "url": "https://vrcloud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
+              "url": "https://vrc.loud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
               "title": "Compact",
               "webview_height_ratio": "compact"
             },
             {
               "type": "web_url",
-              "url": "https://vrcloud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
+              "url": "https://vrc.loud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
               "title": "Tall",
               "webview_height_ratio": "tall"
             },
             {
               "type": "web_url",
-              "url": "https://vrcloud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
+              "url": "https://vrc.loud.com/?pv=1550754573&play=1&fbclid=IwAR0mKSaB5idwkqjZPB6_hrFpKs_ptEpFMxt9Q0aI3I-vkueYIL3EmG4Jolo",
               "title": "Full",
               "webview_height_ratio": "full"
             }
@@ -31,4 +31,3 @@
     }
   ]
 }
-
